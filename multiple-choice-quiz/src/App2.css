@@ -1,0 +1,56 @@
+.App2 {
+    text-align: center;
+    
+  }
+  
+  .card {
+    margin: 0 auto;
+    background-color: black;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    width: 50%;
+    height: auto;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    background-color: goldenrod;
+    padding: 10px;
+    border: 3px solid white;
+    border-radius: 20px;
+    margin-top: 5px;
+    font-size: 15px;
+  }
+  
+  .text {
+    font-size: 15px;
+    color: blueviolet;
+  }
+  
+  .result {
+    margin: 0 auto;
+    background-color: black;
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    width: 25%;
+    height: auto;
+  }
+  
+  button {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 24px;
+  }
+  
